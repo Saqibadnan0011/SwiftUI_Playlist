@@ -5,7 +5,7 @@
 <h3>01: ButtonsSwiftUI</h3>
 
 <h3>02: LoadingAnimation</h3>
-<p>Use the Lottie Animation to build th animations.</p>
+<p>Use the Lottie Animation to build the animations.</p>
 
 https://github.com/Saqibadnan0011/SwiftUI_Playlist/assets/79377722/31bbc6ed-f987-4c13-9920-1b4899ce83d2
 
