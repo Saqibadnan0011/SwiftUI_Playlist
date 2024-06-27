@@ -1,6 +1,6 @@
 # SwiftUI Projects 
 
-<p>Here's 7 projects list which I developed using swiftui for more practice</p>
+<p>Here's 8 projects list which I developed using swiftui for more practice</p>
 
 <h3>01: ButtonsSwiftUI</h3>
 
